@@ -1,6 +1,6 @@
 # VeraXtract Project
 **Our Webiste:**
-[VeraXtract](https://veraxtract.github.io)
+[VeraXtract](https://xplainlp.github.io/veraXtract-pages/)
 
 ## Updating Information in This Repository
 
@@ -16,10 +16,10 @@ This includes updating personal information, research content, or any other data
 Clone the forked repository to your local machine.
 
     
-    git clone https://github.com/XplaiNLP/veraxtract.github.io.git
+    git clone https://github.com/XplaiNLP/veraxtract-pages.git
     
 
-3. **Create a New Branch**: 
+1. **Create a New Branch**: 
 
 Create a new branch for the changes you want to make. Name the branch descriptively. 
 

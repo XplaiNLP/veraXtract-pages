@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: VeraXtract Research Project # Website name
-baseURL: 'https://veraXtract.github.io/' # Website URL
+baseURL: 'https://xplainlp.github.io/veraXtract-pages/' # Website URL
 
 ############################
 ## LANGUAGE
