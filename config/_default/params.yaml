@@ -7,19 +7,22 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  theme_night: dark
+  font: my_font_set
+  font_size: M
+
+ui:
+  dark_mode: "auto"  # Automatically applies dark mode based on user's system preferences
+  dark_mode_toggle: true  # Displays a toggle button for manual switching
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Research Lab
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Quality and Usability Lab, Technische Universität Berlin.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -39,17 +42,17 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization

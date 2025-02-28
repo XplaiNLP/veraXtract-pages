@@ -1,41 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Vera Schmitt
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Vera 
+last_name: Schmitt
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Founder and Head of the XplaiNLP Group
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Technical University Berlin/ German Research Center for Artificial Intelligence
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+  # - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
+  # - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - Natural Language Processing
+  - eXplainable Artificial Intelligence
+  - Human-Computer Interaction
+  - Intelligent Decision Support 
+  - Legal and Ethical Considerations
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -64,14 +56,15 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Project Lead
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Vera Schmitt built up and is leading the XplaiNLP group at the QUL, based on the aquired funding from third-party projects. With her group she is exploring core NLP topisc, xAI, HCI and legal aspects of AI systems in the domain of disinformation detection and medical data processing. Vera completed her undergraduate studies in Politics and Public Administration (B.A.) at the University of Konstanz. During this time, she developed a keen interest in statistics and co-founded CorrelAid, a non-profit community of data science enthusiasts. Afterward, she pursued her passion for data science by enrolling in a Master's program in Data Science at Leuphana University in Lüneburg. As a member of the ChangemakerXchange she actively contributed to projects of CorrelAid in various countries, including Malaysia, Japan, and Singapore. Following this, she started a Ph.D. at the Q&U Labe at the TU Berlin, concerning the topic of economic aspects of privacy. During her PhD, she aquired a BMBF research group funding (KI-Nachwuchsgruppen unter Leitung von Frauen) of 1.4 Million € to significantly extend her already existing group.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Personal website: https://veraschmitt.github.io/
+
